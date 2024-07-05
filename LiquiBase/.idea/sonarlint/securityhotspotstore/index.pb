@@ -23,3 +23,9 @@ m
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 Z
 *demo/.mvn/wrapper/maven-wrapper.properties,3\4\349d3063fe1162c53fd4f6394d4828dec2c9f709
+n
+>demo/src/main/resources/db/changelog/v1_create_table_libro.sql,e\e\ee8abc858c2ec6a6c9b7e6eb4e373831b0f88d8b
+q
+Ademo/src/main/resources/db/changelog/v1_create_table_prestamo.sql,7\c\7c6083190930a7dc6d7b0098f7a8aa847a393776
+p
+@demo/src/main/resources/db/changelog/v1_create_table_cliente.sql,1\7\1784a0c862f9c304bc97255a805eebfa8243a94b

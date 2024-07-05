@@ -7,5 +7,6 @@ CREATE TABLE libro (
   descripcion VARCHAR(255),
   unidades INTEGER,
   autor_id int,
+  disponible BOOLEAN,
   CONSTRAINT fk_autor FOREIGN KEY (autor_id) REFERENCES autor(id)
 );
